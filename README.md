@@ -1,3 +1,2 @@
-# barter-app-stage-10
-
-project 86
+# Info-App
+# Created by @ NINAD_GUGALE
